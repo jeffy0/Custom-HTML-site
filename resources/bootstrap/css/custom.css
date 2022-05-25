@@ -1,0 +1,77 @@
+.a{
+    background-color: transparent;
+;
+}
+.b{
+    background-image: url("../../images/download (2).jpeg");
+    color: white;
+    height: 500px;
+}
+.c{
+    background-color: transparent;
+    border-collapse: unset;
+}
+
+.navbar-nav{
+    margin-left: 429px;
+    margin-right: unset;
+}
+
+/*buttons css one starts here*/
+.one{
+    color: white;
+}
+.two{
+    color: gold;
+}
+.alpha{
+    border-radius: 40px;
+}
+
+.del{
+    background-color: #f82aff;
+    color: white;
+}
+.theta{
+    color: floralwhite;
+}
+/*buttons css one ends here*/
+.z{
+    margin-left: 800px;
+    margin-right: unset;
+
+}
+
+.iota{
+    background-color: #bba52c;
+}
+.footer-section{
+    margin-top: unset;
+}
+/*body css starts here*/
+.beta{
+    background-image: url("../../images/back3.jpeg");
+}
+.log{
+background-image: url("../../images/abu-dhabi-uae-march-16-dome-decoration-emirates-palace-hotel-march-16-2012-this-is-luxurious-most-expensive-7-star-hotel-designed-by-renowned-architect-john-elliott-riba.jpg");
+}
+.x{
+    background-image: url("../../images/download (2).jpeg");
+}
+/*body css ends here*/
+/*button css two starts here*/
+.btn-my{
+    alignment: center;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.marco{
+width: 350px;
+}
+.r{
+    width: 140px;
+}
+.s{
+    width: 140px;
+}
+/*button two css ends here*/
